@@ -92,9 +92,9 @@ README.md
 
 | Role                                      | Member                             | Responsibilities                           |
 | ----------------------------------------- | ---------------------------------- | ------------------------------------------ |
-| **Project Manager / Lead Designer**       | Teffanie Grace R. Bornales         | Game design, direction, scheduling         |
-| **Programmers**                           | Brenz A. Cruz, Jon Orlanz B. Naluz | Core mechanics, camera, and gameplay logic |
-| **Machine Learning Engineer / QA Tester** | Riella Grace S. Ramos              | Player controls, testing, data systems     |
+| **Project Manager / Lead Designer**       | [TBA]                              | Game design, direction, scheduling         |
+| **Programmers**                           | [TBA]                              | Core mechanics, camera, and gameplay logic |
+| **Machine Learning Engineer / QA Tester** | [TBA]                              | Player controls, testing, data systems     |
 | **Environment & 3D Artists**              | [TBA]                              | Low-poly terrain, lighting, props          |
 | **Animator / Technical Artist**           | [TBA]                              | Player and NPC animations                  |
 | **Sound Designer**                        | [TBA]                              | Music and SFX integration                  |
