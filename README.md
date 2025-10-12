@@ -119,7 +119,7 @@ README.md
 ## 🧪 **Playtesting Log**
 
 Playtest results and feedback are tracked via shared document:
-**[Playtest Sheet – Week 2](#)** (replace with Google Sheets link)
+**[Playtest Sheet – Week 2](#)**
 
 Each playtest records:
 
