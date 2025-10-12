@@ -1,0 +1,27 @@
+# === Unity Generated Folders ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# === Plastic SCM ===
+.plastic/
+
+# === IDE and OS Files ===
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+.DS_Store
+Thumbs.db
+
+# === Auto Generated ===
+*.pidb
+*.booproj
+*.svd
